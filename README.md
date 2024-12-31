@@ -69,4 +69,4 @@ This project is a comprehensive **Market Basket Analysis** using Python, aimed a
 ## Contact
 Feel free to reach out for collaboration or questions:  
 **Gurleen Singh**  
-[LinkedIn Profile](www.linkedin.com/in/-gurleen-singh)
+[LinkedIn Profile]([www.linkedin.com/in/-gurleen-singh](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/-gurleen-singh))
