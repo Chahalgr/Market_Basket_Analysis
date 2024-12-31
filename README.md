@@ -38,9 +38,18 @@ This project is a comprehensive **Market Basket Analysis** using Python, aimed a
 - **Heatmaps and Scatter Plots**: To visualize the relationships and significance of association rules.
 
 ## Visualizations
-![Top Selling Products](images/Screenshot%202024-12-31%20152711.png)  
-![Association Rules Scatter Plot](#)  
-![Lift Heatmap](#)  
+
+1. Top Selling Products:
+
+![Top Selling Products](images/Screenshot%202024-12-31%20152711.png)
+
+2.Association Rules Scatter Plot:
+
+![Association Rules Scatter Plot](images/Screenshot%2024-12-31%152725.png)  
+
+3.Lift HeatMap:
+
+![Lift Heatmap](images/Screenshot%2024-12-31%152742.png)  
 
 ## Project Workflow
 1. **Load Dataset**: Imported and cleaned the dataset to ensure accuracy and consistency.
@@ -60,5 +69,4 @@ This project is a comprehensive **Market Basket Analysis** using Python, aimed a
 ## Contact
 Feel free to reach out for collaboration or questions:  
 **Gurleen Singh**  
-[LinkedIn Profile](www.linkedin.com/in/
--gurleen-singh)
+[LinkedIn Profile](www.linkedin.com/in/-gurleen-singh)
